@@ -33,8 +33,8 @@ W='\033[1;37m'
 D='\033[2m'
 N='\033[0m'
 
-CLEAN_URL="https://raw.githubusercontent.com/YOUR_USER/nosta/main/nosta_clean.sh"
-FANCY_URL="https://raw.githubusercontent.com/YOUR_USER/nosta/main/nosta.sh"
+CLEAN_URL="https://raw.githubusercontent.com/real-neso/Nosta_Music_Api-Terminal/refs/heads/main/music-api/music-nosta_clean.sh"
+FANCY_URL="https://raw.githubusercontent.com/real-neso/Nosta_Music_Api-Terminal/refs/heads/main/music-api/nosta_music_fancy.sh"
 INSTALL_DIR="$HOME/.local/bin"
 SCRIPT_NAME="nosta-music"
 
